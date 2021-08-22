@@ -1,4 +1,4 @@
-<?php
+ <?php
         $conn = mysqli_connect("Localhost","root","","onlineeducations");
 
         if (!$conn) {
